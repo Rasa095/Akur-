@@ -1,0 +1,16 @@
+<svg width="116" height="116" viewBox="0 0 116 116" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="Buttons/Play Button">
+<g id="Circle" filter="url(#filter0_b_3653_6792)">
+<circle cx="58" cy="58" r="58" fill="white" fill-opacity="0.65"/>
+</g>
+<path id="Triangle" d="M73.1689 58.0003L50.4151 71.1372L50.4151 44.8633L73.1689 58.0003Z" fill="white"/>
+</g>
+<defs>
+<filter id="filter0_b_3653_6792" x="-10" y="-10" width="136" height="136" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feGaussianBlur in="BackgroundImageFix" stdDeviation="5"/>
+<feComposite in2="SourceAlpha" operator="in" result="effect1_backgroundBlur_3653_6792"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_backgroundBlur_3653_6792" result="shape"/>
+</filter>
+</defs>
+</svg>
