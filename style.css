@@ -6,13 +6,11 @@
 /****************/
 /*NAVIGATION*/
 /****************/
-nav{
-    background:#F8F5F0;
-}
+
 .background-nav{
    width: 1440px;
-    height: 117px;
-   margin: 0 auto;
+    background:#F8F5F0;
+    margin: 0 auto;
     border-bottom: 1px solid #D6D4D1 ;
 }
 .top-content-nav{
@@ -108,27 +106,15 @@ nav{
 /****************/
 /*SECTION-HERO*/
 /****************/
-.section-hero{
-   background: #F8F5F0;
-   align-self: stretch;
-   
-   
-  
-}
 .background-hero{
     width: 1440px;
-    
     flex-shrink: 0;
     background: #F8F5F0;
     position: relative;
-    margin: 0 auto;
-   
-   
+    margin: 0 auto; 
 }
 .central-content-hero{
     display:inline-flex;
-    
-   
     margin:51px 158px 51px 208px ;
     justify-content:  center;
     align-items: center;
@@ -143,8 +129,7 @@ nav{
 .text-container{
     display: flex;
     align-items: flex-start;
-    flex-direction: column;
-    
+    flex-direction: column;    
     gap:40px;
 }
 .text{
@@ -174,9 +159,7 @@ nav{
 .btns{
    
     display: flex;
-    align-items: center;
-    
-   
+    align-items: center;  
 }
 .btn-book{
     display: inline-flex;
@@ -189,7 +172,6 @@ nav{
     border: 1px solid  #191B1A;
     color: #111;
     font-family:sans-serif;
-
     font-weight: bold;
 }
 .btn-view{
@@ -404,12 +386,12 @@ nav{
 .just-image{ 
     margin: 0 auto;
     position: relative;
-       
-
+    width: 1440px;
 }
 .bg-just-image{
     display: flex;
     flex-direction: column;
+   
 }
 .top-bg{
    background: white;
@@ -597,7 +579,6 @@ nav{
 .line-two{
     height: 32px;
 }
-
 .container-hours{
     display: flex;
     flex-direction: column;
@@ -612,8 +593,7 @@ nav{
 /*SECTION-CTA*/
 /****************/
 .cta{
-    padding: 30px 0 130px 0;
-   
+    padding: 30px 0 130px 0;  
 }
 .central-content-cta{
     margin:0 auto;
@@ -641,11 +621,11 @@ nav{
     color:#58595B;
 }
 .text-container-cta h3{
-font-family: sans-serif ;
-font-size: 34px;
-font-style: normal;
-font-weight: 400;
-line-height: 42px;
+    font-family: sans-serif ;
+    font-size: 34px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 42px;
 }
 .central-content-cta a{
     padding: 28px 68px;
@@ -667,10 +647,9 @@ line-height: 42px;
 /*SECTION-FOOTER*/
 /****************/
 .footer{
-    background:#F0EDE8;
-    
-    margin: 0 auto;
-   
+    background:#F0EDE8;   
+    margin: 0 auto;  
+    width: 1440px; 
 }
 .central-content-footer{
     padding: 50px 0px 0px;
@@ -704,7 +683,6 @@ line-height: 42px;
 .icon-instagram{
     width: 16px;
     height: 16px;
-
 }
 .primary-links-bar{
     display: flex;
@@ -716,7 +694,6 @@ line-height: 42px;
     display: flex;
     gap:60px;
     padding: 30px 0;
-
 }
 .typography{
     font-family: sans-serif;
@@ -730,7 +707,6 @@ line-height: 42px;
     display: flex;
     flex-direction: column;
     gap:50px;
-    
 }
 .secondary-links-container{
     display: flex;
